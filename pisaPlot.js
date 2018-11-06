@@ -19,6 +19,23 @@ var pisaTrace = {
   var pisaLayout = {
     title: "PISA MATHEMATICS SCORE",
     barmode: "group",
+    annotations: [
+    {
+      xref: 'paper',
+      yref: 'paper',
+      x: 1,
+      y: 1,
+      xanchor: 'top',
+      yanchor: 'left',
+      text: 'Source: National Center for Education Statistics',
+      showarrow: false,
+      font: {
+        family: 'Arial',
+        size: 12,
+        color: 'rgb(150,150,150)'
+      }
+    }
+  ]
   };
   
   // Render the plot to the div tag with id "plot"

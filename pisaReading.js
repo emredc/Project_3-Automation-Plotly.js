@@ -1,30 +1,22 @@
 var pisareadingJSON = [
     {
       "countryName": "Singapore",
-      "averageScore": "564",
+      "averageScore": "535",
     },
     {
       "countryName": "Hong Kong",
-      "averageScore": "547",
+      "averageScore": "527",
     },
     {
-      "countryName": "Macau",
-      "averageScore": "543",
+      "countryName": "Canada",
+      "averageScore": "527",
     },
     {
-      "countryName": "Chinese Taipei",
-      "averageScore": "542",
+      "countryName": "Finland",
+      "averageScore": "526",
     },
     {
-      "countryName": "Japan",
-      "averageScore": "532",
-    },
-    {
-      "countryName": "Korea",
-      "averageScore": "524",
-    },
-    {
-      "countryName": "Switzerland",
+      "countryName": "Ireland",
       "averageScore": "521",
     },
     {
@@ -32,251 +24,263 @@ var pisareadingJSON = [
       "averageScore": "519",
     },
     {
-      "countryName": "Canada",
-      "averageScore": "515",
+      "countryName": "Korea",
+      "averageScore": "517",
     },
     {
-      "countryName": "Netherlands",
-      "averageScore": "512",
-    },
-    {
-      "countryName": "Denmark",
-      "averageScore": "511",
-    },
-    {
-      "countryName": "Finland",
-      "averageScore": "511",
-    },
-    {
-      "countryName": "Slovenia",
-      "averageScore": "509",
-    },
-    {
-      "countryName": "Belgium",
-      "averageScore": "506",
-    },
-    {
-      "countryName": "Germany",
-      "averageScore": "505",
-    },
-    {
-      "countryName": "Poland",
-      "averageScore": "504",
-    },
-    {
-      "countryName": "Ireland",
-      "averageScore": "503",
+      "countryName": "Japan",
+      "averageScore": "516",
     },
     {
       "countryName": "Norway",
-      "averageScore": "501",
+      "averageScore": "513",
     },
     {
-      "countryName": "Austria",
-      "averageScore": "496",
+      "countryName": "NewZealand",
+      "averageScore": "509",
     },
     {
-      "countryName": "New Zealand",
-      "averageScore": "495",
+      "countryName": "Germany",
+      "averageScore": "509",
     },
     {
-      "countryName": "Vietnam",
-      "averageScore": "494",
+      "countryName": "C-Macau",
+      "averageScore": "509",
     },
     {
-      "countryName": "Russian Federation",
-      "averageScore": "494",
+      "countryName": "Poland",
+      "averageScore": "506",
     },
     {
-      "countryName": "Sweden",
-      "averageScore": "493",
+      "countryName": "Slovenia",
+      "averageScore": "505",
+    },
+    {
+      "countryName": "Netherland",
+      "averageScore": "503",
     },
     {
       "countryName": "Australia",
-      "averageScore": "493",
+      "averageScore": "503",
+    },
+    {
+      "countryName": "Sweden",
+      "averageScore": "500",
+    },
+    {
+      "countryName": "Denmark",
+      "averageScore": "500",
     },
     {
       "countryName": "France",
-      "averageScore": "492",
+      "averageScore": "499",
     },
     {
-      "countryName": "United Kingdom",
-      "averageScore": "492",
-    },
-    {
-      "countryName": "Czech Republic",
-      "averageScore": "492",
+      "countryName": "Belgium",
+      "averageScore": "499",
     },
     {
       "countryName": "Portugal",
-      "averageScore": "491",
+      "averageScore": "498",
     },
     {
-      "countryName": "OECD average",
-      "averageScore": "490",
+      "countryName": "UK",
+      "averageScore": "498",
     },
     {
-      "countryName": "Italy",
-      "averageScore": "489",
+      "countryName": "C-Taipei",
+      "averageScore": "497",
     },
     {
-      "countryName": "Iceland",
-      "averageScore": "488",
+      "countryName": "USA",
+      "averageScore": "497",
     },
     {
       "countryName": "Spain",
-      "averageScore": "485",
+      "averageScore": "496",
     },
     {
-      "countryName": "Luxembourg",
-      "averageScore": "485",
+      "countryName": "Russia",
+      "averageScore": "495",
+    },
+    {
+      "countryName": "B-S-J-G",
+      "averageScore": "494",
+    },
+    {
+      "countryName": "OECD",
+      "averageScore": "493",
+    },
+    {
+      "countryName": "Switzerland",
+      "averageScore": "492",
     },
     {
       "countryName": "Latvia",
+      "averageScore": "488",
+    },
+    {
+      "countryName": "Czech",
+      "averageScore": "487",
+    },
+    {
+      "countryName": "Crotia",
+      "averageScore": "487",
+    },
+    {
+      "countryName": "Vietnam",
+      "averageScore": "487",
+    },
+    {
+      "countryName": "Austria",
+      "averageScore": "485",
+    },
+    {
+      "countryName": "Italy",
+      "averageScore": "485",
+    },
+    {
+      "countryName": "Iceland",
       "averageScore": "482",
     },
     {
-      "countryName": "Malta",
-      "averageScore": "478",
-    },
-    {
-      "countryName": "Lithuania",
-      "averageScore": "478",
-    },
-    {
-      "countryName": "Hungary",
-      "averageScore": "476",
-    },
-    {
-      "countryName": "Slovak Republic",
-      "averageScore": "475",
+      "countryName": "Luxembourg",
+      "averageScore": "481",
     },
     {
       "countryName": "Israel",
-      "averageScore": "469",
-    },
-    {
-      "countryName": "United States",
-      "averageScore": "469",
-    },
-    {
-      "countryName": "Croatia",
-      "averageScore": "464",
+      "averageScore": "479",
     },
     {
       "countryName": "Argentina",
-      "averageScore": "456",
+      "averageScore": "475",
+    },
+    {
+      "countryName": "Lithuania",
+      "averageScore": "472",
+    },
+    {
+      "countryName": "Hungary",
+      "averageScore": "470",
     },
     {
       "countryName": "Greece",
-      "averageScore": "453",
-    },
-    {
-      "countryName": "Romania",
-      "averageScore": "443",
-    },
-    {
-      "countryName": "Bulgaria",
-      "averageScore": "441",
-    },
-    {
-      "countryName": "Cyprus",
-      "averageScore": "437",
-    },
-    {
-      "countryName": "United Arab Emirates",
-      "averageScore": "427",
+      "averageScore": "467",
     },
     {
       "countryName": "Chile",
-      "averageScore": "422",
+      "averageScore": "459",
     },
     {
-      "countryName": "Turkey",
-      "averageScore": "420",
+      "countryName": "Slovakia",
+      "averageScore": "453",
     },
     {
-      "countryName": "Moldova",
-      "averageScore": "419",
+      "countryName": "Malta",
+      "averageScore": "447",
+    },
+    {
+      "countryName": "Cyprus",
+      "averageScore": "443",
     },
     {
       "countryName": "Uruguay",
-      "averageScore": "417",
+      "averageScore": "437",
+    },
+    {
+      "countryName": "Romania",
+      "averageScore": "434",
+    },
+    {
+      "countryName": "UAE",
+      "averageScore": "434",
+    },
+    {
+      "countryName": "Bulgaria",
+      "averageScore": "432",
+    },
+    {
+      "countryName": "Turkey",
+      "averageScore": "428",
+    },
+    {
+      "countryName": "CostaRica",
+      "averageScore": "427",
+    },
+    {
+      "countryName": "Trinidad",
+      "averageScore": "427",
     },
     {
       "countryName": "Montenegro",
-      "averageScore": "417",
+      "averageScore": "427",
     },
     {
-      "countryName": "Trinidad and Tobago",
-      "averageScore": "417",
-    },
-    {
-      "countryName": "Thailand",
-      "averageScore": "415",
-    },
-    {
-      "countryName": "Albania",
-      "averageScore": "413",
+      "countryName": "Columbia",
+      "averageScore": "425",
     },
     {
       "countryName": "Mexico",
+      "averageScore": "423",
+    },
+    {
+      "countryName": "Moldova",
+      "averageScore": "416",
+    },
+    {
+      "countryName": "Thailand",
+      "averageScore": "409",
+    },
+    {
+      "countryName": "Jordan",
       "averageScore": "408",
     },
     {
-      "countryName": "Georgia",
-      "averageScore": "403",
+      "countryName": "Brazil",
+      "averageScore": "407",
+    },
+    {
+      "countryName": "Albenia",
+      "averageScore": "405",
     },
     {
       "countryName": "Qatar",
       "averageScore": "402",
     },
     {
-      "countryName": "Costa Rica",
-      "averageScore": "400",
-    },
-    {
-      "countryName": "Lebanon",
-      "averageScore": "396",
-    },
-    {
-      "countryName": "Colombia",
-      "averageScore": "389",
+      "countryName": "Georgia",
+      "averageScore": "401",
     },
     {
       "countryName": "Peru",
-      "averageScore": "386",
+      "averageScore": "398",
     },
     {
       "countryName": "Indonesia",
-      "averageScore": "386",
+      "averageScore": "397",
     },
     {
-      "countryName": "Jordan",
-      "averageScore": "380",
-    },
-    {
-      "countryName": "Brazil",
-      "averageScore": "377",
-    },
-    {
-      "countryName": "Macedonia",
-      "averageScore": "371",
-    },
-    {
-      "countryName": "Tunisia",
-      "averageScore": "366",
-    },
-    {
-      "countryName": "Kosovo",
+      "countryName": "Tunusia",
       "averageScore": "361",
     },
     {
-      "countryName": "Algeria",
-      "averageScore": "359",
+      "countryName": "Dominican",
+      "averageScore": "358",
     },
     {
-      "countryName": "Dominican Republic",
-      "averageScore": "327",
+      "countryName": "Macedonia",
+      "averageScore": "352",
+    },
+    {
+      "countryName": "Algeria",
+      "averageScore": "350",
+    },
+    {
+      "countryName": "Kosovo",
+      "averageScore": "347",
+    },
+    {
+      "countryName": "Lebanon",
+      "averageScore": "347",
     }
    ]

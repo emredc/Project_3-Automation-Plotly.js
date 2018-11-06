@@ -12,7 +12,7 @@ var pisaDataJSON = [
       "averageScore": "543",
     },
     {
-      "countryName": "Chinese Taipei",
+      "countryName": "C-Taipei",
       "averageScore": "542",
     },
     {

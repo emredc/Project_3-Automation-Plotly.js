@@ -1,9 +1,9 @@
 var data = [{
-    values: [807300, 773800, 607500, 194300, 1227000, 1100000, 746.000],
+    values: [807300, 773800, 607500, 194300, 1227000, 1100000, 746000],
     labels: ['Management', 'Business', 'Computer-Math', 'Engineering', 'Service', 'Healthcare', 'Construction' ],
     domain: {column: 0},
     name: 'Number of Jobs Needed',
-    hoverinfo: 'label+percent+name',
+    hoverinfo: 'label+value+name',
     hole: .3,
     type: 'pie'
   },{
@@ -23,10 +23,10 @@ var data = [{
     annotations: [
       {
         font: {
-          size: 20
+          size: 12
         },
         showarrow: false,
-        text: '2016',
+        text: '2026',
         x: 0.3,
         y: 0.1,
         xanchor: 'right',
@@ -34,10 +34,10 @@ var data = [{
       },
       {
         font: {
-          size: 20
+          size: 12
         },
         showarrow: false,
-        text: '2026 Job Projection',
+        text: 'Breakdown of Computer/Math jobs',
         x: 0.6,
         y: 0.1,
         xanchor: 'left',
